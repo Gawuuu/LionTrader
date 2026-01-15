@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -Wall -pthread -O3 -DNDEBUG CMakeFiles/UnitTest.dir/tests/test_match.cpp.o -o UnitTest 

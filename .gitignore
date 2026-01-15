@@ -1,0 +1,14 @@
+build/
+.vscode/
+.idea/
+
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+LionTrader
+UnitTest
+
+*.log
