@@ -1,4 +1,0 @@
-/home/wutianyi/project/LionTrader/CMakeFiles/LionTrader.dir
-/home/wutianyi/project/LionTrader/CMakeFiles/UnitTest.dir
-/home/wutianyi/project/LionTrader/CMakeFiles/edit_cache.dir
-/home/wutianyi/project/LionTrader/CMakeFiles/rebuild_cache.dir
